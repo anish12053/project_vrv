@@ -54,7 +54,7 @@ class _UserManagementScreenState extends State<UserManagementScreen> {
                                   users[index] = updatedUser; // Update user in the list
                                 }
                               });
-                            },
+                            }, 
                           ),
                         );
                       },
